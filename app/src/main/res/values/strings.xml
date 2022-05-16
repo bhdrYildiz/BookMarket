@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BookMarket</string>
+    <string name="tool_bar_title">Kitap Listesi</string>
+    <string name="book_price">Fiyatı: %d TL</string>
+    <string name="book_summer">"Hayvan Çiftliği'nin başkişileri hayvanlardır. Bir çiftlikte yaşayan hayvanlar, kendilerini sömüren insanlara başkaldırıp çiftliğin yönetimini ele geçirir. Amaçları daha eşitlikçi bir topluluk oluşturmaktır. Aralarında en akıllı olan domuzlar, kısa sürede önder bir takım oluşturur; ama devrimi de yine onlar yolundan saptırır. Ne yazık ki insanlardan daha baskıcı, daha acımasız bir diktatörlük kurulmuştur artık. George Orwell, bu romanında tarihsel bir gerçeği eleştirmektedir. Romandaki önder domuzun, düpedüz Stalin'i simgelediği açıktır. Diğer kahramanlar gerçek kişileri çağrıştırmasalar da, bir diktatörlük ortamında olabilecek kişilerdir."</string>
+
+</resources>
